@@ -27,7 +27,7 @@ public class Variables
         System.out.println("In Java SE 8 and later, int can be used to unsigned 64-bit integer which has a minimum value of 0 & a maximum value of 264-1.");
         
         System.out.println("float is a single-precision 32-bit IEEE 754 floating point.");
-        System.out.println("use float if you need to save memory in large arrays of floating point numbers.")
+        System.out.println("use float if you need to save memory in large arrays of floating point numbers.");
         
         System.out.println("double is a double-precision 64-bit IEEE 754 floating point");
         System.out.println("it is used for decimal values, this data type is generally the default choice.");
